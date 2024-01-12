@@ -1,70 +1,77 @@
-# Getting Started with Create React App
+# PokeReact 🚀
+![PokeAPI Logo](https://raw.githubusercontent.com/PokeAPI/media/master/logo/pokeapi_256.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+¡Bienvenido a PokeReact, tu aplicación para explorar el mundo Pokémon usando React y la Poke API! 🌐
 
-## Available Scripts
+**Lenguajes utilizados:**
 
-In the project directory, you can run:
+![HTML5](https://img.shields.io/badge/HTML-5-orange?style=flat&logo=html5)
 
-### `npm start`
+![CSS3](https://img.shields.io/badge/CSS-3-blue?style=flat&logo=css3)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Despliegue en GitHub 🚀
+Puedes desplegar tu aplicación en GitHub siguiendo estos pasos:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Asegúrate de tener Git instalado en tu máquina.
 
-### `npm run build`
+Crea un nuevo repositorio en GitHub.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Clona tu repositorio en tu máquina local:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+git clone https://github.com/tu-usuario/poke-react.git
+```
+Ingresa al directorio de tu proyecto:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+cd poke-react
+```
+Instala las dependencias:
 
-### `npm run eject`
+```bash
+npm install
+```
+Añade y confirma tus cambios:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+git add .
+git commit -m "Inicializa el proyecto PokeReact"
+```
+Vincula tu repositorio de GitHub:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+git remote add origin https://github.com/tu-usuario/poke-react.git
+```
+Sube tu código al repositorio:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+git push -u origin master
+¡Visita tu repositorio en GitHub y disfruta de tu aplicación PokeReact en vivo! 🎉
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+##Instrucciones para Ejecutar 🏃‍♂️
+Clona el repositorio en tu máquina local.
 
-## Learn More
+Abre la terminal y navega al directorio del proyecto:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+cd poke-react
+```
+Instala las dependencias:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+npm install
+```
+Inicia la aplicación:
 
-### Code Splitting
+```bash
+npm start
+```
+Abre tu navegador y ve a http://localhost:3000.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+¡Explora el mundo Pokémon, busca tus favoritos y dale like! 👍
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+¡Diviértete explorando el universo Pokémon con PokeReact! 🌟
